@@ -1,0 +1,27 @@
+.product-detail{
+    background-color: rgb(128, 126, 126) !important;
+    padding: 15px;
+    margin-top: 20px;
+ }
+
+img{
+    width: 100%;
+    height: 300px;
+   
+}
+
+.mycolor{
+ color: white;
+ font-size: 2rem;
+}
+
+.page-number-style{
+    padding: 20px;
+    cursor: pointer;
+}
+
+.pagination{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
